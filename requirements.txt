@@ -1,0 +1,6 @@
+# Project 5 notebook.
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+scikit-image>=0.22
+jupyter>=1.0
